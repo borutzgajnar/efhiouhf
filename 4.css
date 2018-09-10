@@ -1,0 +1,453 @@
+#wrapper
+
+{ 
+margin-left:auto;
+margin-right:auto;
+background-color:white; 
+ 
+width: 900px; 
+
+} 
+#meni { 
+
+
+border-color:green  ;
+border-width:1px;
+ 
+height: 30px; 
+width: 900px; 
+}
+#meni1{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 20px; 
+float:left;
+margin-top:3px;
+border-color:green  ;
+border-width:1px;
+} 
+#meni2 {
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px;   
+height: 20px; 
+float:left;
+margin-top:3px;
+border-color:green  ;
+border-width:1px;
+} 
+#meni3 {
+
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 20px; 
+float:left;
+margin-top:3px;
+border-color:green  ;
+border-width:1px;
+
+} 
+#meni4{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px;   
+height: 20px; 
+float:left;
+margin-top:3px;
+border-color:green  ;
+border-width:1px;
+} 
+#meni5{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 143px; 
+height: 20px; 
+float:left;
+margin-top:3px;
+border-color:green  ;
+border-width:1px;
+} 
+#meni6{
+font-family: "Sans-serif";
+text-align:center;
+width: 143px; 
+height: 20px; 
+float:left;
+margin-top:2px;
+} 
+#meni1:hover{
+background-color:#E8E8E8;
+}#meni2:hover{
+background-color:#E8E8E8;
+}#meni3:hover{
+background-color:#E8E8E8;
+}
+#meni4:hover{
+background-color:#E8E8E8;
+}#meni5:hover{
+background-color:#E8E8E8;
+}#meni6:hover{
+background-color:#E8E8E8;
+}
+#header { 
+margin-top:1px;
+text-align:right;
+height: 400px; 
+width: 900px; 
+}
+#header1 { 
+	background-image: url("mladi2.jpg");
+margin-top:1px;
+text-align:right;
+height: 360px; 
+width: 900px; 
+}
+#header3 { 
+
+background-color:#D8D8D8 ;
+height: 10px; 
+width: 900px; 
+}
+#header2 { 
+
+background-color: 	#888888 ;
+height: 40px; 
+width: 900px; 
+}
+#logo { 
+margin-bottom:8px;
+margin-top:1px;
+text-align:right;
+height: 120px; 
+width: 900px; 
+background-color:white;
+}
+#logo-levo { 
+
+float:left;
+height: 120px; 
+width: 150px; 
+margin-bottom:8px;
+}
+#logo-desno { 
+
+float:left;
+height: 120px; 
+width: 200px; 
+margin-top:16px;
+margin-left:550px;
+}
+#novice {
+margin-top:20px; 
+width: 600px; 
+
+border-bottom-style: solid;
+border-color:green  ;
+border-width:1px;
+}
+#logo-poravnava{ 
+margin-top:20px;
+margin-left:20px;
+
+}
+#tekme{ 
+margin-top:20px;
+margin-left:20px;
+float: right;
+ 
+width: 280px; 
+
+border-color:green  ;
+border-width:2px;
+border-top-style: solid;
+}
+#tekme1{ 
+margin-top:-20px;
+
+height: 40px; 
+width: 280px; 
+background-color:white;
+
+
+}
+
+#tekme2{ 
+margin-top:5px;
+height: 150px; 
+width: 280px; 
+background-color:white;
+border-style: solid;
+border-color:grey ;
+border-width:1px;
+}
+#tekme21{ 
+
+height: 150px; 
+width: 120px; 
+
+float:left;
+}
+#tekme22{ 
+
+height: 150px; 
+width: 40px; 
+background-color:white;
+float:left;
+}
+#tekme23{ 
+
+height: 150px; 
+width: 120px; 
+
+float:left;
+}
+#lestvica { 
+
+float: right;
+ margin-top:-300px;
+width: 280px; 
+background-color:#E8E8E8 ;
+margin-left:20px;
+border-color:green  ;
+border-width:2px;
+border-top-style: solid;
+
+}
+#lestvica1 { 
+
+
+height: 50px; 
+width: 280px; 
+background-color:white;
+margin-top:-20px;
+text-align:center;
+}
+#lestvica2 { 
+width:20px;
+margin-left:5px;
+float:left;
+text-align:right;
+
+}
+#lestvica3 { 
+width:140px;
+float:left;
+text-align:right;
+
+}
+#lestvica4 { 
+float:left;
+width:50px;
+text-align:center;
+}
+#lestvica5 { 
+
+float:left;
+ width:50px;
+
+text-align:center;
+}
+#novice1 {
+
+ margin-top:20px;
+width: 600px; 
+
+border-bottom-style: solid;
+border-color:green  ;
+border-width:1px;
+}
+
+#novice2{
+ 
+width: 600px; 
+
+border-bottom-style: solid;
+border-color:green  ;
+border-width:1px;
+}
+#novice3{
+
+width: 600px; 
+
+border-bottom-style: solid;
+border-color:green  ;
+border-width:1px;
+}
+#novice4{
+ 
+width: 600px; 
+
+border-bottom-style: solid;
+border-color:green  ;
+border-width:1px;
+}
+#noga{
+margin-top:40px;
+height:150px;
+background-color:#D0D0D0 ;
+
+
+}
+#noga1{
+
+height:34px;
+background-color:white;
+
+
+}
+#igralci{
+ 
+width: 900px; 
+margin-top:-20px;
+border-top-style: solid;
+border-color:grey ;
+border-width:1px;
+}
+#boxigralec{
+ height300px;
+width: 220px; 
+margin-top:20px;
+margin-left:5px;
+float:left;
+}
+#boxigralec1{
+ height:210px;
+width: 220px; 
+background-color:blue;
+}
+#boxigralec2{
+ height:80px;
+width: 220px; 
+margin-top:10px;
+border-top-style: solid;
+border-color:green ;
+border-width:1px;
+}
+#boxigralec3{
+float:left;
+ height:80px;
+ background-color:#D8D8D8 ;
+width: 60px; 
+text-align:center;
+
+}
+#boxigralec4{
+float:left;
+ height:80px;
+
+width:159px; 
+text-align:center;
+
+}
+#vrsta {
+ height:320px;
+width: 900px; 
+margin-top:20px;
+
+}
+#u19{
+margin-bottom:15px;
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 30px; 
+float:left;
+margin-top:3px;
+border-color:white  ;
+border-width:1px;
+ padding-top: 6px;
+} 
+#u17{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 30px; 
+float:left;
+margin-top:3px;
+border-color:white  ;
+border-width:1px;
+ padding-top: 6px;
+} 
+#u15{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 30px; 
+float:left;
+margin-top:3px;
+border-color:white  ;
+border-width:1px;
+ padding-top: 6px;
+} 
+#u13{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 30px; 
+float:left;
+margin-top:3px;
+border-color:white  ;
+border-width:1px;
+ padding-top: 6px;
+} 
+#u11{
+border-right-style: solid;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 149px; 
+height: 30px;  
+float:left;
+margin-top:3px;
+border-color:white  ;
+border-width:1px;
+ padding-top: 6px;
+} 
+#u9{
+ padding-top: 6px;
+font-family: "Sans-serif";
+text-align:center;
+
+width: 148px; 
+height: 30px; 
+float:left;
+margin-top:3px;
+
+} 
+#u19:hover{
+background-color:#33CC66;
+}#u17:hover{
+background-color:#33CC66;
+}#u15:hover{
+background-color:#33CC66;
+}
+#u13:hover{
+background-color:#33CC66;
+}#u11:hover{
+background-color:#33CC66;
+}#u9:hover{
+background-color:#33CC66;
+}
+table, th, td {
+    border: 1px solid;
+}
