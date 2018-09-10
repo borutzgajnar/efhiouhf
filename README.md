@@ -1,2 +1,2 @@
-# borutzgajnar.github.io
+# http://borutzgajnar.github.io
 Spletna stran
